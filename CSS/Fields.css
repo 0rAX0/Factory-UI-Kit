@@ -1,0 +1,19 @@
+.text-field {
+  background: #FFFFFF;
+  border: 1px solid #C1C1C1;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.13), inset 0px 2px 0px 0px rgba(236,236,236,0.50);
+  border-radius: 3px;
+}
+
+.text-field.selected {
+  background: #FFFFFF;
+  border: 1px solid #468EDC;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.13), inset 0px 2px 0px 0px rgba(70,142,220,0.12);
+  border-radius: 3px;
+}
+
+.text-field.inactive {
+  background: #F5F5F5;
+  border: 1px solid #D5D5D5;
+  border-radius: 3px;
+}
