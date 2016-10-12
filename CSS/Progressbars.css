@@ -1,0 +1,15 @@
+.trough {
+  background: #FFFFFF;
+  border: 1px solid #C1C1C1;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.13), inset 0px 2px 0px 0px rgba(236,236,236,0.50);
+  border-radius: 3px;
+  height: 4px;
+}
+
+.progress {
+  background-image: linear-gradient(-180deg, #FFFFFF 0%, #E6E6E6 100%);
+  background: rgba(70,142,220,0.83);
+  border: 1px solid #468EDC;
+  box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.13), inset 0px 1px 0px 0px rgba(255,255,255,0.12);
+  border-radius: 3px;
+}
